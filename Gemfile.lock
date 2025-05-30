@@ -187,6 +187,8 @@ GEM
     matrix (0.4.2)
     mini_mime (1.1.5)
     minitest (5.25.5)
+    minitest-focus (1.4.0)
+      minitest (>= 4, < 6)
     msgpack (1.8.0)
     net-imap (0.5.8)
       date
@@ -387,6 +389,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
+  minitest-focus
   propshaft
   puma (>= 5.0)
   rails!
