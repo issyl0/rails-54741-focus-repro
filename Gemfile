@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", github: "rails/rails", branch: "main"
+gem "rails", github: "rails/rails", ref: "bfbfa4a118dc5ea9ba20b4767ae4ad39fe75c9c6"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use sqlite3 as the database for Active Record
